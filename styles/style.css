@@ -1,0 +1,45 @@
+/* Common Font Style */
+body {
+    font-family: 'EB Garamond', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* Text-Color */
+.text-primary-orange{
+    color: #FD6E0A;
+}
+
+/* Primary Button */
+.primary-btn{
+    background: #FD6E0A;
+}
+
+/* NavBar Section */
+
+.header-section {
+    margin: auto;
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-nav-button {
+    /* display: flex;
+    text-decoration: none; */
+}
+
+.header-nav-button {
+    list-style:none
+}
+
+.nav-title {
+    color: #181818;
+    font-family: Open Sans;
+    font-size: 45px;
+    font-weight: 800;
+}
+nav ul{
+    display: flex;
+}
